@@ -4,3 +4,4 @@ new changes
 change3
 first
 bug fix
+new stash
