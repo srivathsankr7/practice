@@ -1,7 +1,7 @@
-hai
 sample file
 new changes
 change3
 first
 bug fix
 new stash
+new line 1
