@@ -3,3 +3,4 @@ sample file
 new changes
 change3
 first
+bug fix
