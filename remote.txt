@@ -1,4 +1,3 @@
 New remote file
 x
 y
-z
